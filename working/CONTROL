@@ -1,0 +1,18 @@
+02 12 31 00
+4
+70.00 108.00 500.0
+71.00 155.00 500.0
+90.00 0.00 500.0
+72.00 320.00 500.0
+-360
+0
+10000.0
+3
+/media/pankaj/Repo/arl/ncep/
+RP200212.gbl
+/media/pankaj/Repo/arl/ncep/
+RP200211.gbl
+/media/pankaj/Repo/arl/ncep/
+RP200301.gbl
+/media/pankaj/Repo/traj/vikash/txt/
+ncep_new.500.2002123100
