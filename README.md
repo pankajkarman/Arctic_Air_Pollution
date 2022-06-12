@@ -5,8 +5,9 @@ This repository consists of python codes for HySPLIT Trajectory generation using
 
 These code are based on python codes for HYSPLIT: [HyTraj](https://github.com/pankajkarman/HyTraj) 
 
+## Trajectory Clusters
 ![Trajectory clusters](https://github.com/pankajkarman/Arctic_Air_Pollution/blob/master/figs/traj_cluster.png)
 
-
+## Probable sources of pollution
 ![Pollution Sources](https://github.com/pankajkarman/Arctic_Air_Pollution/blob/master/figs/2004_2019_pscf.png)
 
